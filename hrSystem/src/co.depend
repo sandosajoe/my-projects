@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1683503157 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\main.cpp
+	<iostream>
+	"hrsystem.h"
+	<string>
+
+1683699846 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\benefit.cpp
+	"benefit.h"
+
+1683699867 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\commissionemployee.cpp
+	"commissionemployee.h"
+
+1683699883 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\dentalbenefit.cpp
+	"dentalbenefit.h"
+	<iostream>
+	<string>
+
+1683699832 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\department.cpp
+	"department.h"
+
+1683699832 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\employee.cpp
+	"employee.h"
+	"Benefit.h"
+	<iostream>
+	<string>
+
+1683699902 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\healthbenefit.cpp
+	"healthbenefit.h"
+	<iostream>
+	<string>
+
+1683699918 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\hourlyemployee.cpp
+	"hourlyemployee.h"
+	<iostream>
+	<string>
+
+1683699832 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\hrsystem.cpp
+	"hrsystem.h"
+	"hourlyemployee.h"
+	"manageremployee.h"
+	"salariedemployee.h"
+	"commissionemployee.h"
+
+1683699831 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\manageremployee.cpp
+	"manageremployee.h"
+
+1683699932 source:c:\users\hp\onedrive\documents\projecys\hello world\doxygen\oopp2\src\salariedemployee.cpp
+	"salariedemployee.h"
+	<iostream>
+	<string>
+
